@@ -4,7 +4,7 @@
   
 <h1> ❔ About </h1>
   <p> 🏷 My name is Uğur Berk </p>
-  <p> 🤓 I am back-end developer </p>
+  <p> 🤓 I am discord bot developer </p>
   <p> 🏳 I live in Turkey </p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
